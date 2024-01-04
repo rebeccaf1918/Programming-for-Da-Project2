@@ -31,3 +31,9 @@ Install all the Python libraries required
 - Download and sort Irish data sets
 - Complete analysis on the Irish data
 - Make predicts and come to conclustions on the future and complete regression on the data
+
+
+# References
+
+https://www.geeksforgeeks.org/convert-excel-to-csv-in-python/
+https://pythonbasics.org/read-excel/
