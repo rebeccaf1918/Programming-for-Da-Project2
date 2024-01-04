@@ -1,1 +1,24 @@
 # Programming-for-Da-Project2
+
+ATU Galway Data Analytics Hdip 
+Programming for Data Analysis Module Project 2 Analysing Paleo-Present Climate Data
+Created by Rebecca Feeley
+Student ID G00425652
+
+_Introduction_
+This repository contains my project in a Jupytr notebook format for the Programming for Data Analysis Module which forms part of the ATU Galway HDIP in Data Analytics.
+
+This repository contains the research conducted 
+
+_Technical Requirements_
+To download this Project
+Go to my repository on Github at 
+From there, you can choose how to use the repository whether that is downloading it as a zipfile or cloning the repository.
+
+_Requirements to run the code_
+This code is written in Python programming language and there are a few requirments necessary for the operate of the project code.
+
+Install Python - latest version 3.11.0 (I recommend to install Anaconda with it for expanded programming capabilities)
+Install the Visual Studio Code (or alternativly, your source code editor of preference)
+Install Cmder (or alternatively, your command line interpreter of preference)
+Install all the Python libraries required
