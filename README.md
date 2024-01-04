@@ -22,3 +22,12 @@ Install Python - latest version 3.11.0 (I recommend to install Anaconda with it 
 Install the Visual Studio Code (or alternativly, your source code editor of preference)
 Install Cmder (or alternatively, your command line interpreter of preference)
 Install all the Python libraries required
+
+# Project plan
+
+- Download all required data sets including carbon, temperature, Mauna Loa Observatory data, add data on Polar Ice Coverage Irish data from Met Eireann
+- Complete work on data to merge them and have correct format etc
+- Create plots etc to analyse the created data set
+- Download and sort Irish data sets
+- Complete analysis on the Irish data
+- Make predicts and come to conclustions on the future and complete regression on the data
