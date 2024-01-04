@@ -39,3 +39,12 @@ https://www.geeksforgeeks.org/convert-excel-to-csv-in-python/
 https://pythonbasics.org/read-excel/
 https://doi.pangaea.de/10.1594/PANGAEA.710901
 https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc3deuttemp2007.txt
+https://stackoverflow.com/questions/33655127/how-to-read-certain-columns-from-excel-using-pandas-python
+
+
+Add Mauna Loa data
+
+Do graphs
+
+Add Sea ice data
+Do graphs 
