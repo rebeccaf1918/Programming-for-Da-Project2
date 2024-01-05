@@ -42,3 +42,6 @@ https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc3deut
 https://stackoverflow.com/questions/33655127/how-to-read-certain-columns-from-excel-using-pandas-python
 
 https://www.weather.gov/wrh/Climate?wfo=hfo - source of temp for hawaii
+https://data.berkeleyearth.org/auto/Stations/TAVG/Text/151513-TAVG-Data.txt
+https://stackoverflow.com/questions/45133919/merging-two-csv-files-together-side-by-side
+https://encyclopedia.pub/entry/33080
