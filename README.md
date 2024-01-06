@@ -46,3 +46,6 @@ https://data.berkeleyearth.org/auto/Stations/TAVG/Text/151513-TAVG-Data.txt
 https://stackoverflow.com/questions/45133919/merging-two-csv-files-together-side-by-side
 https://encyclopedia.pub/entry/33080
 https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/law/law_ch4.txt
+https://gml.noaa.gov/webdata/ccgg/trends/ch4/ch4_mm_gl.txt
+https://gml.noaa.gov/ccgg/trends_ch4/
+https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-ch4-2008.txt
