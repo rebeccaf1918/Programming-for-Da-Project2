@@ -51,11 +51,15 @@ https://gml.noaa.gov/ccgg/trends_ch4/
 https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-ch4-2008.txt
 https://www.met.ie/climate/available-data/historical-data
 https://climateknowledgeportal.worldbank.org/country/ireland/climate-data-historical
+https://berkeleyearth.org/antarctic-heatwave-rapid-attribution-review-dome-c-record/
+https://en.tutiempo.net/climate/ws-898280.html
 
-
-- plot irish data
 
 - examine correlations
 
 - add methane, and irish data to main data set
+
+- time lags, regression etc
+
+- analysis
 
