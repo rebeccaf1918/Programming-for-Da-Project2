@@ -53,6 +53,7 @@ https://www.met.ie/climate/available-data/historical-data
 https://climateknowledgeportal.worldbank.org/country/ireland/climate-data-historical
 https://berkeleyearth.org/antarctic-heatwave-rapid-attribution-review-dome-c-record/
 https://en.tutiempo.net/climate/ws-898280.html
+https://www.weforum.org/agenda/2018/05/earth-just-hit-a-terrifying-milestone-for-the-first-time-in-more-than-800-000-years/
 
 
 - examine correlations
