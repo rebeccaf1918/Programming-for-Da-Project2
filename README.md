@@ -58,9 +58,8 @@ https://www.weforum.org/agenda/2018/05/earth-just-hit-a-terrifying-milestone-for
 
 - examine correlations
 
-- add methane, and irish data to main data set
-
-- time lags, regression etc
+- time lags, 
+- regression 
 
 - analysis
 
