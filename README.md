@@ -56,5 +56,8 @@ https://www.weforum.org/agenda/2018/05/earth-just-hit-a-terrifying-milestone-for
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4761980/  
 https://towardsdatascience.com/assessing-global-temperature-anomaly-using-nasas-space-studies-part-i-a4c0c4b825cb
 https://www.bridgerphotonics.com/blog/how-does-methane-affect-environment#:~:text=Methane%20(CH4)%20is%20the%20main,which%20heat%20leaves%20the%20planet
-
+https://stackoverflow.com/questions/39336727/get-lag-with-cross-correlation
+https://www.reuters.com/business/environment/2023-was-worlds-hottest-year-record-eu-scientists-confirm-2024-01-09/
+https://www.science.org/content/article/even-warmer-expected-2023-was-hottest-year-record
+https://ed.ted.com/blog/2023/07/24/is-it-really-hotter-now-than-any-time-in-100000-years
 
