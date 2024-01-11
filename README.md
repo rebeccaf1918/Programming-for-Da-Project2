@@ -54,12 +54,11 @@ https://climateknowledgeportal.worldbank.org/country/ireland/climate-data-histor
 https://berkeleyearth.org/antarctic-heatwave-rapid-attribution-review-dome-c-record/
 https://en.tutiempo.net/climate/ws-898280.html
 https://www.weforum.org/agenda/2018/05/earth-just-hit-a-terrifying-milestone-for-the-first-time-in-more-than-800-000-years/
-
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4761980/  
+https://towardsdatascience.com/assessing-global-temperature-anomaly-using-nasas-space-studies-part-i-a4c0c4b825cb
 
 - examine correlations
-
 - time lags, 
 - regression 
-
 - analysis
 
