@@ -30,7 +30,7 @@ Install all the Python libraries required
 - Create plots etc to analyse the created data set
 - Download and sort Irish data sets
 - Complete analysis on the Irish data
-- Make predicts and come to conclustions on the future and complete regression on the data
+- Make predicts and come to conclustions on the future and complete regression analysis on the data
 
 
 # References
@@ -40,7 +40,6 @@ https://pythonbasics.org/read-excel/
 https://doi.pangaea.de/10.1594/PANGAEA.710901
 https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc3deuttemp2007.txt
 https://stackoverflow.com/questions/33655127/how-to-read-certain-columns-from-excel-using-pandas-python
-
 https://www.weather.gov/wrh/Climate?wfo=hfo - source of temp for hawaii
 https://data.berkeleyearth.org/auto/Stations/TAVG/Text/151513-TAVG-Data.txt
 https://stackoverflow.com/questions/45133919/merging-two-csv-files-together-side-by-side
@@ -56,9 +55,6 @@ https://en.tutiempo.net/climate/ws-898280.html
 https://www.weforum.org/agenda/2018/05/earth-just-hit-a-terrifying-milestone-for-the-first-time-in-more-than-800-000-years/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4761980/  
 https://towardsdatascience.com/assessing-global-temperature-anomaly-using-nasas-space-studies-part-i-a4c0c4b825cb
+https://www.bridgerphotonics.com/blog/how-does-methane-affect-environment#:~:text=Methane%20(CH4)%20is%20the%20main,which%20heat%20leaves%20the%20planet
 
-- examine correlations
-- time lags, 
-- regression 
-- analysis
 
